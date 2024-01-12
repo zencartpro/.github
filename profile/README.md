@@ -21,9 +21,6 @@ Die deutsche Zen Cart Version ist eine Modifikation der amerikanischen Zen Cart 
 
 * Die amerikanische Version ist im Administrationsbereich immer monolingual englisch. Daran ändert auch die etwaige Installation eines deutschen Sprachpakets nichts. Die meisten Konfigurationseinstellungen werden immer auf englisch sein, da sie in der Datenbank hinterlegt sind. Die deutsche Zen Cart Version bietet einen multilingualen Adminbereich. Dadurch sind auch die in der Datenbank hinterlegten Konfigurationseinstellungen und -beschreibungen auf deutsch. Sie könnten auch in jeder anderen Sprache genutzt werden. Diese Funktionalität steht natürlich auch für später installierte Erweiterungen zur Verfügung. Die im Downloadbereich von zen-cart-pro.at angebotenen Module berücksichtigen diese Multilanguagefähigkeit und sind alle für die deutsche Zen Cart Version ausgelegt.
 * Die amerikanische Zen Cart Version berücksichtigt viele rechtliche Erfordernisse nicht, denen ein Onlineshop im deutschsprachigen Raum unterworfen ist. Daher wurde die deutsche Zen Cart Version auf die Anforderungen, die an Onlineshops in Deutschland, Österreich und der Schweiz gestellt werden, angepasst. Die Anforderungen der sogenannten "Buttonlösung", der Datenschutzgrundverordnung (DSGVO) und viele andere Vorgaben werden erfüllt.
-* Die Installation ist schlanker und enthält keine unnötigen Dateien mehr, da die Bilder und Medien der Demodaten nicht mehr automatisch mitinstalliert werden, sondern nur bei Bedarf hochgeladen werden können
-* Die amerikanische Version enthält keinerlei HTML Editor mehr, in der deutschen Version ist der CKEditor bereits integriert. Alternativ ist auch der Tiny MCE Editor integriert.
-* Weitere Bugfixes und Verbesserungen, die von den Amerikanern nicht übernommen wurden
 * Die amerikanische Version ist extrem abgespeckt und stellt weiterführende Funktionalitäten durch zusätzliche Module bereit, die erst mühsam manuell installiert werden müssen. Zahlreiche häufig genutze Erweiterungen und eigene Entwicklungen sind in der deutschen Zen Cart Version bereits vorinstalliert.
 * Weitere für die deutsche Zen Cart Version angepasste Erweiterungen stehen hier auf Github zur Verfügung.
 
@@ -61,3 +58,4 @@ Sie können diese Software kostenfrei benutzen, Änderungen vornehmen, etc.
 
 Da wir Ihnen diese Software kostenfrei zur Verfügung stellen, freuen wir uns über Spenden.
 Diese Spenden helfen uns, die Kosten für die Wartung, Updates und die stetige Weiterentwicklung dieser Software für Ihren Online-Shop zu decken.
+* https://spenden.zen-cart-pro.at
